@@ -18,9 +18,9 @@
        -> Web apps that leverage machine learning for smarter user experiences
   
 - 📫 How to reach me : Email: abhijitjha1801@gmail.com
-- 
+  
 - 😄 Pronouns: He/Him
-- 
+  
 - ⚡ Fun fact: I love how web development combines creativity and logic—building intuitive user interfaces with React while having machine learning models running in the 
                 background feels like creating a superpower for the web!.](https://github.com/)
 
