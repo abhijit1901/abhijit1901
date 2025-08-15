@@ -27,7 +27,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me In Nutshell
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -46,8 +46,8 @@ const abhijit = {
         languages: ["Java", "Python"],
         webDevelopment: ["HTML", "CSS", "JavaScript", "React.js", "Express.js", "Node.js", "MongoDB", "REST API", "Tailwind CSS", "SQL", "JWT"],
         dataAnalytics: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "EDA", "Feature Engineering"],
-        tools: ["Git", "GitHub", "Postman"],
-        coreConcepts: ["OOPS", "DBMS", "SDLC"]
+        tools: ["Git", "GitHub", "Postman", "Jupyter", "VS Code", "IntelliJ", "Eclipse"],
+        coreConcepts: ["OOPS", "Java Collection Framework", "Streams", "DBMS", "SDLC", "Computer Network", "Machine Learning"]
     },
     achievements: [
         "Published research paper in JCSIR Journal (2025)",
@@ -109,19 +109,22 @@ const abhijit = {
 
 ---
 
+💡 *Checkout My Git repos for More of my work!*  
+[![Checkout My Git repos for More](https://img.shields.io/badge/More%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijit1901?tab=repositories) 
+
+---
+
 ## 🛠️ Technology Stack
 
 <div align="center">
 
 ### **Languages**
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ### **Web Development**
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -137,7 +140,6 @@ const abhijit = {
 </p>
 
 ### **Data Analytics**
-
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -146,24 +148,28 @@ const abhijit = {
 </p>
 
 ### **Tools**
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </p>
 
 ### **Core Concepts**
-
 <p>
   <img src="https://img.shields.io/badge/OOPS-A8B9CC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java%20Collection%20Framework-007396?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Streams-00BCD4?style=for-the-badge">
   <img src="https://img.shields.io/badge/DBMS-00758F?style=for-the-badge">
   <img src="https://img.shields.io/badge/SDLC-4CAF50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Computer%20Network-2196F3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge">
 </p>
 
 </div>
-
----
 
 ## 📊 Competitive Programming Dashboards
 
