@@ -171,7 +171,8 @@ const abhijit = {
 
 </div>
 
-## 📊 Competitive Programming Dashboards
+## 📊 Competitive Programming Dashboards 
+### Solved 270+ algorithmic problems across major coding platforms [LeetCode, GeeksforGeeks, Code360 by CN]
 
 <div align="center">
 
