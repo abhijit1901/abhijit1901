@@ -1,9 +1,9 @@
 <div align="center">
   
-# 👨‍💻 Abhijit Jha
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY5cjR5eWY0MmYxcmM0dHQ4cnplM3Jnc3V4NGo1YncweXNicjR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="Coding Animation" width="600" height="300">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNqM2l0cGJ6dGdzbXBjZzBqYnhscG5peXkzeTM4dDFoZ3U2b3ZlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600" height="300">
-
+## 👨‍💻 Welcome to Abhijit's place
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CSE(AIML)+Undergraduate+%F0%9F%93%9A;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation">
 
 <p align="center">
