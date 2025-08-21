@@ -2,8 +2,11 @@
   
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY5cjR5eWY0MmYxcmM0dHQ4cnplM3Jnc3V4NGo1YncweXNicjR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="Coding Animation" width="600" height="300">
 
-## 👨‍💻 Welcome to Abhijit's place
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+## 👨‍💻 Welcome to Abhijit's place
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CSE(AIML)+Undergraduate+%F0%9F%93%9A;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation">
 
 <p align="center">
@@ -13,7 +16,7 @@
 
 </div>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -25,7 +28,7 @@
 
 </div>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 💫 About Me In Nutshell
 
@@ -85,7 +88,7 @@ const abhijit = {
 
 </details>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <details>
 <summary>✍️ <b>Full-Stack Blogging Platform – BLOGOPEDIA</b></summary>
@@ -107,12 +110,12 @@ const abhijit = {
 
 </details>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 💡 *Checkout My Git repos for More of my work!*  
 [![Checkout My Git repos for More](https://img.shields.io/badge/More%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijit1901?tab=repositories) 
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🛠️ Technology Stack
 
@@ -171,6 +174,8 @@ const abhijit = {
 
 </div>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## 📊 Competitive Programming Dashboards 
 ### Solved 270+ algorithmic problems across major coding platforms [LeetCode, GeeksforGeeks, Code360 by CN]
 
@@ -181,6 +186,8 @@ const abhijit = {
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abhijitjrnaw/)
 
 </div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🎯 What I'm Up To
 
@@ -194,7 +201,7 @@ timeline
     2025-06-01 : Research & Publications
 ```
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 💭 Random Dev Quote
 
@@ -202,7 +209,7 @@ timeline
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </div>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
 
