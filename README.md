@@ -1,9 +1,4 @@
 <div align="center">
-  
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY5cjR5eWY0MmYxcmM0dHQ4cnplM3Jnc3V4NGo1YncweXNicjR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="Coding Animation" width="600" height="300">
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 
 ## 👨‍💻 Welcome to Abhijit's place
 
@@ -42,7 +37,7 @@ const abhijit = {
     education: {
         degree: "B.Tech in Computer Science Engineering (AI & ML)",
         gpa: "8.18/10",
-        college: "Dr Sudhir Chandra Sur Institute Of Technology And Sports Complex",
+        college: "Dr Sudhir Chandra Sur Institute of Technology and Sports Complex",
         graduation: "2026"
     },
     technologies: {
