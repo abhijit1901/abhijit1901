@@ -17,6 +17,7 @@
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://abhijitjhaportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-jha-95191526b/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijitjha1801@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijit1901)
@@ -34,6 +35,7 @@ const abhijit = {
     pronouns: "He/Him",
     location: "West Bengal, India",
     currentFocus: "Full Stack Development & AI/ML",
+    portfolio: "https://abhijitjhaportfolio.vercel.app/",
     education: {
         degree: "B.Tech in Computer Science Engineering (AI & ML)",
         gpa: "8.18/10",
@@ -109,6 +111,7 @@ const abhijit = {
 
 💡 *Checkout My Git repos for More of my work!*  
 [![Checkout My Git repos for More](https://img.shields.io/badge/More%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijit1901?tab=repositories) 
+[![View Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://abhijitjhaportfolio.vercel.app/)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -211,6 +214,8 @@ timeline
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+[![Explore My Portfolio](https://img.shields.io/badge/🚀_Explore_My_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://abhijitjhaportfolio.vercel.app/)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
