@@ -175,7 +175,7 @@ const abhijit = {
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 📊 Competitive Programming Dashboards 
-### Solved 270+ algorithmic problems across major coding platforms [LeetCode, GeeksforGeeks, Code360 by CN]
+### Solved 350+ algorithmic problems across major coding platforms [LeetCode, GeeksforGeeks, Code360 by CN]
 
 <div align="center">
 
