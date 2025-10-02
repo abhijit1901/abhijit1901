@@ -211,8 +211,6 @@ timeline
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
 [![Explore My Portfolio](https://img.shields.io/badge/🚀_Explore_My_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://abhijitjhaportfolio.vercel.app/)
